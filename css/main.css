@@ -148,6 +148,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.p-b{
+  padding-bottom: 20vh;
+}
 .thumbnail>img{
   padding-top: 30px;
   width: :70vh;
