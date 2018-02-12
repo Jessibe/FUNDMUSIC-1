@@ -336,12 +336,12 @@ temporary rendered events).
   font-size: .85em;
   line-height: 1.3;
   border-radius: 3px;
-  border: 1px solid #3a87ad;
+  border: 1px solid #F4D35E;
   /* default BORDER color */ }
 
 .fc-event,
 .fc-event-dot {
-  background-color: #3a87ad;
+  background-color: #F4D35E;
   /* default BACKGROUND color */ }
 
 .fc-event,
@@ -613,7 +613,7 @@ TODO: more distinction between this file and common.css
   color: #666; }
 
 .fc-unthemed td.fc-today {
-  background: #fcf8e3; }
+  background: #F4D35E !important; }
 
 .fc-unthemed .fc-disabled-day {
   background: #d7d7d7;
@@ -886,7 +886,7 @@ NOTE: use percentage font sizes or else old IE chokes
   min-width: 1.5em;
   text-align: center;
   background-color: #f2f2f2;
-  color: #808080; }
+  color: #ffffff; }
 
 /* when week/day number have own column */
 .fc-basic-view td.fc-week-number {

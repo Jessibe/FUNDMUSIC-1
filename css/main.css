@@ -2,6 +2,9 @@ body {
   background-color: black;
   color: #FFFFFF;
 }
+h3{
+  color: white;
+}
 
 .hr-1 {
   border-top: 2px solid #F4D35E;
@@ -148,8 +151,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.p-b{
-  padding-bottom: 20vh;
+.p-t{
+  padding-top: 20vh;
 }
 .thumbnail>img{
   padding-top: 30px;
@@ -228,22 +231,7 @@ body>div>div>div.col-sm-5>div>div.panel-body>ul {
   background: #F4D35E;
   border-radius: 10px;
 }
-/*NOSOTROS*/
-#nosotros{
-  text-align: center;
-  font-size: 25px;
-  margin:
 
-}
-#nosotros.div{
-  margin: auto;
-}
-#nosotros> h1{
-  color: #F4D35E;
-}
-.seccion{
-    height: 80vh;
-}
 /*MODAL*/
 .modal-body,.modal-header, .modal-footer{
     background-color: black;
@@ -275,4 +263,10 @@ body>div>div>div.col-sm-5>div>div.panel-body>ul {
 }
 .seccion{
     height: 80vh;
+}
+.nosotros-bg{
+   height: 50vh;
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://media.giphy.com/media/3oEduXeT0j1Bl5uWHK/giphy.gif);
 }
